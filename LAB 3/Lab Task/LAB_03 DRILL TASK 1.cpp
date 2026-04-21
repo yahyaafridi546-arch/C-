@@ -1,6 +1,6 @@
-// Name: maaz wahab
+// Name: M YAHYA AFRIDI
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0719
+// Registration No: BF25NWELE0755
 // Section: A
 
 #include <iostream>
